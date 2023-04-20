@@ -573,7 +573,7 @@ def prediction(age,sex,job,housing,saving,checking,amount,duration,purpose):
 
 #writing simple text 
 
-st.title("Credit Card App")
+st.title("Base_credito")
 
     
 # ============ Aplicación Principal  ============
